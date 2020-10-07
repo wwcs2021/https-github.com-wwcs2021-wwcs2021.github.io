@@ -5,7 +5,7 @@ layout: about #home il layout home ti mette la lista di pagine
 title: Winter Workshop on Complex Systems 2021
 ---
 
-**The physical event is canceled due to the restrictions on international travel and risks associated with COVID-19.**
+**The event is canceled due to the restrictions on international travel and risks associated with COVID-19.**
 
 The Winter Workshop on Complex Systems is a one-week workshop where young researchers from all over the world gather together for discussing about complex systems.
 
